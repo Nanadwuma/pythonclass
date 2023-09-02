@@ -1,0 +1,11 @@
+1. intro to programming
+2. python setup for class
+2.1. virtual environement (venv) 
+    create virtual environment: python3 -m venv <name>
+    Activeate the virtual environement:
+    1. Navigate into the virtual environement
+    2. type: source bin/activate
+    3. step out of the virtual environement: deactivate
+2.2 test python in terminal
+2.3. What is python? interpreted language as compared to compailed language
+
