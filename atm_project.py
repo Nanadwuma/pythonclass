@@ -1,4 +1,5 @@
 WITHDRAWAL_LIMIT = 5000
+#definition of user bank account
 bank_accounts = [
     
     {"account_number": 444555,
