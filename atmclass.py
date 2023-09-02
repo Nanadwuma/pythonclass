@@ -1,4 +1,4 @@
-WITHDRAWAL_LIMIT = 4000
+WITHDRAWAL_LIMIT = 6000
 # ATM project in class
 
 class ATM:
