@@ -1,3 +1,5 @@
+# This is a code on a chess game
+
 class ChessGame:
     def __init__(self):
         self.board = self.initialize_board()
